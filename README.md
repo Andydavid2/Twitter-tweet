@@ -2,13 +2,13 @@
 
 **Twitter** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **48** hours spent in total
+Time spent: **90 ** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [x] User can **compose and post a new tweet**
+  - [x] User can **compose and post a new tweet**
   - [x] User can click a “Compose” icon in the Action Bar on the top right
   - [x] User can then enter a new tweet and post this to twitter
   - [x] User is taken back to home timeline with **new tweet visible** in timeline
@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 
 The following **bonus** features are implemented:
 
-- [ ] User can view more tweets as they scroll with infinite pagination
+- [x] User can view more tweets as they scroll with infinite pagination
 - [ ] Compose tweet functionality is build using modal overlay
 - [ ] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
 - [ ] Replace all icon drawables and other static image assets with [vector drawables](http://guides.codepath.org/android/Drawables#vector-drawables) where appropriate.
